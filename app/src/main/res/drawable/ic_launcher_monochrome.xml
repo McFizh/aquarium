@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Single-color version of the foreground for themed icons (Android 13+) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:scaleX="1.1"
+        android:scaleY="1.1">
+        <!-- Bezel outline (outer minus screen) and stand -->
+        <path
+            android:fillColor="#FF000000"
+            android:fillType="evenOdd"
+            android:pathData="M35,32H73A5,5 0,0 1,78 37V61A5,5 0,0 1,73 66H35A5,5 0,0 1,30 61V37A5,5 0,0 1,35 32ZM36,35.5H72A2.5,2.5 0,0 1,74.5 38V60A2.5,2.5 0,0 1,72 62.5H36A2.5,2.5 0,0 1,33.5 60V38A2.5,2.5 0,0 1,36 35.5Z" />
+        <path
+            android:fillColor="#FF000000"
+            android:pathData="M50,66H58V72H50Z" />
+        <path
+            android:fillColor="#FF000000"
+            android:pathData="M43.5,72H64.5A1.5,1.5 0,0 1,64.5 75H43.5A1.5,1.5 0,0 1,43.5 72Z" />
+        <!-- Fish with the eye cut out -->
+        <path
+            android:fillColor="#FF000000"
+            android:pathData="M47,51L40,46.5L41.5,51L40,55.5Z" />
+        <path
+            android:fillColor="#FF000000"
+            android:fillType="evenOdd"
+            android:pathData="M66,51C62,45 51,44.5 46,51C51,57.5 62,57 66,51ZM60.2,49.6a1.3,1.3 0,1 0,2.6 0a1.3,1.3 0,1 0,-2.6 0Z" />
+        <path
+            android:fillColor="#FF000000"
+            android:pathData="M53,46.6Q56,43.2 59.5,46.4Z" />
+        <!-- Bubbles -->
+        <path
+            android:fillColor="#FF000000"
+            android:pathData="M68.1,45a1.5,1.5 0,1 0,3 0a1.5,1.5 0,1 0,-3 0Z" />
+        <path
+            android:fillColor="#FF000000"
+            android:pathData="M70.4,41.3a1,1 0,1 0,2 0a1,1 0,1 0,-2 0Z" />
+    </group>
+</vector>
